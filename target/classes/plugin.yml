@@ -1,0 +1,7 @@
+name: AdvancedFishing
+version: '1.0-SNAPSHOT'
+main: com.asdluis.advancedfishing.AdvancedFishing
+api-version: 1.16
+authors: [ zLuis ]
+description: Fish Sea Creatures and Treasures out of the water
+website: https://github.com/asdLuis/AdvancedFishing
